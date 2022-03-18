@@ -1,120 +1,265 @@
-Company Name: Trovata 
-Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-trovata-2963345423?refId=bIezocX1h87DIatbZYF3%2BQ%3D%3D&trackingId=HWbBUjNCEwMaOZf3VTyWkw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card 
+Company Name: Ripple 
+Job Position: Software Engineer, RippleX (New Grad) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-ripplex-new-grad-at-ripple-2873425923?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=vqz7C3HyfQ%2FKwxYAUuzrNA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card 
 
-Company Name: Trovata 
+Company Name: Databricks 
+Job Position: Software Engineer - New Grad, Backend & Infrastructure 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-new-grad-backend-infrastructure-at-databricks-2961692426?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=pCoIWKs7itrRdH1SD1W%2FVA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Databricks 
+Job Position: Software Engineer - New Grad, Full Stack 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-new-grad-full-stack-at-databricks-2961689773?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=eahZ%2B9vd5U0KEANNgms2Ng%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Adobe 
+Job Position: Software Development Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-2963342229?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=xnXism50l%2BGe%2BU3d0odgaA%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Nextdoor 
+Job Position: Software Engineer - Backend 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-backend-at-nextdoor-2622875972?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=Zs5jVDryjTlcNZ%2BXjy7CYw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Tradeshift 
+Job Position: Fullstack Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/fullstack-engineer-at-tradeshift-2974237666?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=jZo4h3AeziP7%2BQG6WKIa8Q%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Bento 
+Job Position: Software engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-bento-2974279885?refId=50voJ0ozvtXcVqJujzmEnA%3D%3D&trackingId=4D1sJEk%2B8gGW3z5oXHbOgg%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Waabi 
+Job Position: Software Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-waabi-2976934854?refId=tdlYSxXdc8oMm95Bo%2BZdnQ%3D%3D&trackingId=mQ3yl2TstViIKgdg%2BVYZVw%3D%3D&position=4&pageNum=1&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Odoo 
+Job Position: Full Stack Engineer (FT) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/full-stack-engineer-ft-at-odoo-2970783801?refId=tdlYSxXdc8oMm95Bo%2BZdnQ%3D%3D&trackingId=JgO8%2BwVdOMSSnBLKPZq4Xg%3D%3D&position=15&pageNum=1&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Broadridge 
+Job Position: Software Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-broadridge-2972342932?refId=tdlYSxXdc8oMm95Bo%2BZdnQ%3D%3D&trackingId=%2BrfVHCm4ERqHDC5%2F7JPlbw%3D%3D&position=18&pageNum=1&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Nextdoor 
+Job Position: Software Engineer - Full Stack 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-nextdoor-2617202349?refId=tdlYSxXdc8oMm95Bo%2BZdnQ%3D%3D&trackingId=RIiErKmUaPCTTzh6iJqALg%3D%3D&position=19&pageNum=1&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Gopuff 
+Job Position: Software Engineer - Backend 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-backend-at-gopuff-2946077628?refId=tdlYSxXdc8oMm95Bo%2BZdnQ%3D%3D&trackingId=qhQDKFIfA8obAaaJbtjo2w%3D%3D&position=22&pageNum=1&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Shipt 
+Job Position: Software Engineer Gig Ops 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-gig-ops-at-shipt-2927556892?refId=tdlYSxXdc8oMm95Bo%2BZdnQ%3D%3D&trackingId=2EFFO%2Fc6D34bT2xcn5MkMQ%3D%3D&position=24&pageNum=1&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Twitter 
+Job Position: Software Engineer, Web - Client UI 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-web-client-ui-at-twitter-2964158243?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=VR%2B7TSq4Sx%2Fa9nxeHFerHg%3D%3D&position=2&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Arine 
+Job Position: Backend Software Engineer (Python) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/backend-software-engineer-python-at-arine-2974169589?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=4yiQSAyAOdOhh7OUANyKCw%3D%3D&position=3&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Mux 
+Job Position: Full Stack Engineer - Growth & Onboarding 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/full-stack-engineer-growth-onboarding-at-mux-2964182102?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=fxF0vhH5hHkQkauD9NTyRA%3D%3D&position=5&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Alteryx 
+Job Position: Software Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-alteryx-2964189799?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=3RwjpupYOLOWaJQb9Z1IiQ%3D%3D&position=6&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Arine 
+Job Position: Full Stack Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/full-stack-engineer-at-arine-2974168874?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=PJA4lAiy9OIu2tWNPzjuSg%3D%3D&position=8&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Lyft 
+Job Position: Software Engineer, Data Platform 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-lyft-2928331092?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=e8ONJvRTOvYGW9rx5wftBg%3D%3D&position=10&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Meta 
+Job Position: Software Engineer, Intern/Co-Op 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-intern-co-op-at-meta-2977074779?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=NCLVEGLSoCcFtEecGRHN%2BA%3D%3D&position=12&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Odoo 
+Job Position: Software Engineer (FT) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-ft-at-odoo-2970784820?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=Zb78y7MNXewlxcX2kd3vKg%3D%3D&position=13&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Collab 
+Job Position: Frontend Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/frontend-engineer-at-collab-2976833835?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=HYuR5II8aIAvjorZiCEJ8g%3D%3D&position=18&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Spanning Labs 
+Job Position: Front End Web App Developer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/front-end-web-app-developer-at-spanning-labs-2974196311?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=2wCKyv6YSN24EwDdYLlGBw%3D%3D&position=21&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Databricks 
+Job Position: Software Engineer - Frontend 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-frontend-at-databricks-2961689081?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=LeKeVUkLLU6UdnlhuPOvuA%3D%3D&position=22&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Nextdoor 
+Job Position: Software Engineer - Cloud Engineering 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-cloud-engineering-at-nextdoor-2654269560?refId=dJ7UvQv4IDoYsorm%2FA%2BAhQ%3D%3D&trackingId=wlSl8uI%2FTKrCuELcPmRR6A%3D%3D&position=25&pageNum=2&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Block 
+Job Position: Software Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-block-2964621307?refId=YyUeoG1%2BYsYY5IFdUKN85g%3D%3D&trackingId=zdOywUsC8Z%2FSX%2FBK1IbOIA%3D%3D&position=4&pageNum=3&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Ancient Ritual 
 Job Position: Full Stack Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-trovata-2963349810?refId=bIezocX1h87DIatbZYF3%2BQ%3D%3D&trackingId=Tmke8rRgVuG1oWZDxXlLoA%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-ancient-ritual-2976932181?refId=YyUeoG1%2BYsYY5IFdUKN85g%3D%3D&trackingId=rwH7JmL80YL%2Fobl9L1i1Yg%3D%3D&position=8&pageNum=3&trk=public_jobs_jserp-result_search-card 
 
-Company Name: Houzz 
+Company Name: Gopuff 
+Job Position: Software Engineer - Simulation 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-simulation-at-gopuff-2946078743?refId=YyUeoG1%2BYsYY5IFdUKN85g%3D%3D&trackingId=mRBiBVQycUfFZ0Cf7q8Lew%3D%3D&position=12&pageNum=3&trk=public_jobs_jserp-result_search-card 
+
+Company Name: FocusKPI, Inc. 
 Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-houzz-2973787757?refId=bIezocX1h87DIatbZYF3%2BQ%3D%3D&trackingId=Bf5f6kPHQ5VPfr1SPKr0tg%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-focuskpi-inc-2976033118?refId=YyUeoG1%2BYsYY5IFdUKN85g%3D%3D&trackingId=dtYFux3oiYPmmbC6sWqjrQ%3D%3D&position=21&pageNum=3&trk=public_jobs_jserp-result_search-card 
 
-Company Name: ServiceNow 
-Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-servicenow-2901508408?refId=lducsIfSNB8cs0%2FnxDpKdg%3D%3D&trackingId=HVafXvRzgnd4swS4vIA3wA%3D%3D&position=1&pageNum=2&trk=public_jobs_jserp-result_search-card 
+Company Name: Lyft 
+Job Position: Software Engineer, Privacy 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-privacy-at-lyft-2976858119?refId=YyUeoG1%2BYsYY5IFdUKN85g%3D%3D&trackingId=i4cGIZ8tsTuFUg0S7YorAw%3D%3D&position=24&pageNum=3&trk=public_jobs_jserp-result_search-card 
 
-Company Name: Qualcomm 
-Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-qualcomm-2959181265?refId=lducsIfSNB8cs0%2FnxDpKdg%3D%3D&trackingId=sRJz1nhhNLsq9CDL8XDyzQ%3D%3D&position=5&pageNum=2&trk=public_jobs_jserp-result_search-card 
+Company Name: Nextdoor 
+Job Position: Software Engineer - Data Platform 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-nextdoor-2659532925?refId=YyUeoG1%2BYsYY5IFdUKN85g%3D%3D&trackingId=fo3hft06VccJeLv%2BmbKuUg%3D%3D&position=25&pageNum=3&trk=public_jobs_jserp-result_search-card 
 
-Company Name: Houzz 
-Job Position: Full-Stack Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-houzz-2973800023?refId=lducsIfSNB8cs0%2FnxDpKdg%3D%3D&trackingId=S0kEyIgSAm9NPLJANOWxTw%3D%3D&position=11&pageNum=2&trk=public_jobs_jserp-result_search-card 
+Company Name: VMware 
+Job Position: Software Engineer - Opportunity for Working Remotely 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-opportunity-for-working-remotely-at-vmware-2963348639?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=Ye7pWbS3C89ac9WXLRUtzA%3D%3D&position=1&pageNum=4&trk=public_jobs_jserp-result_search-card 
 
-Company Name: Link Munch 
-Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-link-munch-2973945648?refId=EHAWFaU7IW%2BxTauzANlqDg%3D%3D&trackingId=SV9%2Be9FvkOR3CJ43EQXHIg%3D%3D&position=7&pageNum=3&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Qualcomm 
-Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-qualcomm-2961646804?refId=EHAWFaU7IW%2BxTauzANlqDg%3D%3D&trackingId=lSUSm4hdXNPEUwhdOQmlAw%3D%3D&position=9&pageNum=3&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Qualcomm 
-Job Position: Software Engineer (Cloud) 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-cloud-at-qualcomm-2961650487?refId=EHAWFaU7IW%2BxTauzANlqDg%3D%3D&trackingId=odl%2B0wIgIiDnNQ7K2cPRQw%3D%3D&position=12&pageNum=3&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Qualcomm 
-Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-qualcomm-2959179133?refId=EHAWFaU7IW%2BxTauzANlqDg%3D%3D&trackingId=vVTuq3opaa9%2BMdBa3Arl%2Fw%3D%3D&position=17&pageNum=3&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Apple 
-Job Position: Backend Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/backend-software-engineer-at-apple-2961692502?refId=EHAWFaU7IW%2BxTauzANlqDg%3D%3D&trackingId=oyCwvAcjptVag2yAr8Jn1w%3D%3D&position=19&pageNum=3&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Whova 
-Job Position: Software Engineer (San Diego, CA Only) 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-san-diego-ca-only-at-whova-2960088097?refId=EHAWFaU7IW%2BxTauzANlqDg%3D%3D&trackingId=F0Z%2BvSNMH7pZuB%2Bu6gA%2FaA%3D%3D&position=25&pageNum=3&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Amazon 
-Job Position: Software Development Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-amazon-2926173044?refId=xxQZvygS2h7uud3nUUX0YQ%3D%3D&trackingId=nGi1HpQwwCb62FFGZsTvsQ%3D%3D&position=12&pageNum=4&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Amazon 
-Job Position: Software Development Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-amazon-2926172145?refId=xxQZvygS2h7uud3nUUX0YQ%3D%3D&trackingId=1fYmqFUPkRrlnqpJdOFYuw%3D%3D&position=14&pageNum=4&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Amazon 
-Job Position: Software Development Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-amazon-2926169368?refId=xxQZvygS2h7uud3nUUX0YQ%3D%3D&trackingId=Q0PNOr8qnN2adCgGED6qyA%3D%3D&position=15&pageNum=4&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Amazon 
-Job Position: Software Development Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-amazon-2926172111?refId=xxQZvygS2h7uud3nUUX0YQ%3D%3D&trackingId=DsNb6jM48eB15nL9ZDuSsQ%3D%3D&position=16&pageNum=4&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Amazon 
-Job Position: Software Development Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-amazon-2926168495?refId=xxQZvygS2h7uud3nUUX0YQ%3D%3D&trackingId=PwlBiXfo7VlK1EssKmj74g%3D%3D&position=17&pageNum=4&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Houzz 
-Job Position: Front-End Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/front-end-software-engineer-at-houzz-2973798313?refId=xxQZvygS2h7uud3nUUX0YQ%3D%3D&trackingId=1%2BiSqHDZXaHsj5UERs5mWQ%3D%3D&position=22&pageNum=4&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Qualcomm 
-Job Position: Software Engineer, Machine Learning Group 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-machine-learning-group-at-qualcomm-2961652612?refId=5gZsLxyfqxY1RkOn6OqILQ%3D%3D&trackingId=%2FtSSbYl6zsysfwySVge3sw%3D%3D&position=2&pageNum=5&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Amazon 
-Job Position: Software Development Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-development-engineer-at-amazon-2926170264?refId=5gZsLxyfqxY1RkOn6OqILQ%3D%3D&trackingId=EZP%2B72XhtGFbk%2FEXJmWGWg%3D%3D&position=9&pageNum=5&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Qualcomm 
-Job Position: Cloud Software Developer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/cloud-software-developer-at-qualcomm-2963316906?refId=5gZsLxyfqxY1RkOn6OqILQ%3D%3D&trackingId=RsYz18s8Gf8CwYYiJpY74A%3D%3D&position=17&pageNum=5&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Houzz 
-Job Position: Software Engineer - Search 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-search-at-houzz-2973785855?refId=cs9JDRn6elkTaBLGSWKyTg%3D%3D&trackingId=KPgVF0ery6PqPBlqtbtd5g%3D%3D&position=6&pageNum=6&trk=public_jobs_jserp-result_search-card 
-
-Company Name: Qualcomm 
-Job Position: L1 Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/l1-software-engineer-at-qualcomm-2963371177?refId=cs9JDRn6elkTaBLGSWKyTg%3D%3D&trackingId=%2BPd1Lha7R3hu5p8Vp1tAhw%3D%3D&position=23&pageNum=6&trk=public_jobs_jserp-result_search-card 
+Company Name: Mercury 
+Job Position: Full-stack Engineering Intern 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/full-stack-engineering-intern-at-mercury-2927538668?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=5mdmcQMiFEYf3EFRnNHDkQ%3D%3D&position=3&pageNum=4&trk=public_jobs_jserp-result_search-card 
 
 Company Name: New Relic, Inc. 
 Job Position: Software Engineer 
-Location: San Diego, CA 
-More Info: https://www.linkedin.com/jobs/view/software-engineer-at-new-relic-inc-2974106351?refId=cs9JDRn6elkTaBLGSWKyTg%3D%3D&trackingId=SauOGAacv7ymURHB6VhngQ%3D%3D&position=25&pageNum=6&trk=public_jobs_jserp-result_search-card 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-new-relic-inc-2976223473?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=LEa1cEJVI698vHV5NOQ33Q%3D%3D&position=5&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: eBay 
+Job Position: Software Engineer (Distributed Systems) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-distributed-systems-at-ebay-2873702305?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=K1JBtF6QNzhzBunGJWAT5g%3D%3D&position=7&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Nextdoor 
+Job Position: Software Engineer - Developer Tools 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-developer-tools-at-nextdoor-2617200599?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=edSQWK0fI3hK4lLQzkX5mg%3D%3D&position=8&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Nextdoor 
+Job Position: Software Engineer - Search 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-search-at-nextdoor-2771069150?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=aM5gpoVx6Js7HKO0M3kfvw%3D%3D&position=9&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: eBay 
+Job Position: Software Engineer (Full Stack) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-ebay-2963300104?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=Xmy8EIaaNk%2B1aZRPIZJMHA%3D%3D&position=11&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Climate LLC 
+Job Position: Intern: Software Engineer (Summer 2022) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/intern-software-engineer-summer-2022-at-climate-llc-2964620978?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=kSHwnTHqJaL7z6tpVM8fWQ%3D%3D&position=12&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Gopuff 
+Job Position: Software Engineer - Optimization 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-optimization-at-gopuff-2946077591?refId=NzfOC05UibAg15%2FN5FHNkg%3D%3D&trackingId=wZstfFsj%2BokvjkdLFpvBEg%3D%3D&position=15&pageNum=4&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Stripe 
+Job Position: Software Engineer, Software Architecture 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-software-architecture-at-stripe-2846856455?refId=NHMD7Mb%2FhyVUcIi5LpDcag%3D%3D&trackingId=TA1AmVhEu%2F8hYxgJb1t3gw%3D%3D&position=1&pageNum=5&trk=public_jobs_jserp-result_search-card 
+
+Company Name: FocusKPI, Inc. 
+Job Position: Software Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-focuskpi-inc-2976032337?refId=NHMD7Mb%2FhyVUcIi5LpDcag%3D%3D&trackingId=CGeGF0%2BOw9TWPQidhS%2FBIw%3D%3D&position=8&pageNum=5&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Droisys 
+Job Position: Fullstack Developer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/fullstack-developer-at-droisys-2945736935?refId=NHMD7Mb%2FhyVUcIi5LpDcag%3D%3D&trackingId=gM3OEmJ%2BEklRQ2HHtCy92A%3D%3D&position=15&pageNum=5&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Astranis Space Technologies 
+Job Position: Ground Software — Associate Engineer (Summer/Fall 2022) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/ground-software-%E2%80%94-associate-engineer-summer-fall-2022-at-astranis-space-technologies-2871886474?refId=NHMD7Mb%2FhyVUcIi5LpDcag%3D%3D&trackingId=czhm7m8bSEu0KE5noUflww%3D%3D&position=19&pageNum=5&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Waabi 
+Job Position: Software Engineer, Infrastructure 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-waabi-2976938051?refId=NHMD7Mb%2FhyVUcIi5LpDcag%3D%3D&trackingId=up4Fh7Mo9bFE3iqm%2FrBvmg%3D%3D&position=24&pageNum=5&trk=public_jobs_jserp-result_search-card 
+
+Company Name: SkillSoniq 
+Job Position: Computer Vision Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/computer-vision-engineer-at-skillsoniq-2964116056?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=iVYqgv5b3ZgJ9eWxW%2FgO1A%3D%3D&position=1&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Wonolo 
+Job Position: Backend Software Engineer, Marketplace (Remote) 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/backend-software-engineer-marketplace-remote-at-wonolo-2971591693?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=PDqQ1Hh%2BnXeiAzAg5E8mjw%3D%3D&position=4&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Uber 
+Job Position: Software Engineer II - Platform Engineering 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-ii-platform-engineering-at-uber-2977008636?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=zKV6vKOs%2BpWh8A%2FerAkKAw%3D%3D&position=12&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Stripe 
+Job Position: Backend / API Engineer, Risk Platform 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/backend-api-engineer-risk-platform-at-stripe-2964630716?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=KFkMinKu3F9FI6U5UV5EKQ%3D%3D&position=13&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Snap Inc. 
+Job Position: Software Engineer, Data Science & Analytics 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-data-science-analytics-at-snap-inc-2964620496?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=CLU1tyCxwYB4EGZsSl6a9Q%3D%3D&position=14&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Gopuff 
+Job Position: Software Engineer — Delivery Network Intelligence 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-%E2%80%94-delivery-network-intelligence-at-gopuff-2946046594?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=EePI4HnDZlLlQaqKWebUUg%3D%3D&position=16&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: Google 
+Job Position: Software Engineer, Site Reliability Engineering 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-site-reliability-engineering-at-google-2927589734?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=wCuRYpveHDoP9QlaUIhOzw%3D%3D&position=18&pageNum=6&trk=public_jobs_jserp-result_search-card 
+
+Company Name: CloserIQ 
+Job Position: Software Engineer 
+Location: San Francisco, CA 
+More Info: https://www.linkedin.com/jobs/view/software-engineer-at-closeriq-2964112336?refId=8EeLJ2gtIqp77gYOTnC3Dg%3D%3D&trackingId=LnPuMFN45EDjKv9C9t%2BZng%3D%3D&position=21&pageNum=6&trk=public_jobs_jserp-result_search-card 
 
